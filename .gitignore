@@ -1,0 +1,11 @@
+# iOS / Xcode
+xcuserdata/
+DerivedData/
+*.xcuserstate
+*.xcscmblueprint
+.build/
+*.ipa
+
+# OS
+.DS_Store
+Thumbs.db
